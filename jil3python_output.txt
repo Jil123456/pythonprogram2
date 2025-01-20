@@ -1,0 +1,18 @@
+450.0
+enter the first marks
+30
+enter the second marks
+50
+enter the third marks
+100
+60.0
+enter first no.
+20
+enter the second no.
+30
+30 20
+5 -1 6 1.5
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
